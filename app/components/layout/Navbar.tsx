@@ -27,7 +27,7 @@ export const Navbar = () => {
             <div className="flex items-center space-x-2">
               <Trophy className="h-6 w-6 text-blue-600" />
              <a href="/">
-               <span className="font-bold text-xl">SMK PEDAN</span>
+               <span className="font-bold text-xl">SMK KRISTEN PEDAN</span>
                </a>
             </div>
 
